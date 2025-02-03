@@ -10,9 +10,6 @@ namespace MyFirstPlugin
         {
             TaskDialog.Show("Title", "Mensaje de prueba");
 
-
-            TaskDialog.Show("Title", "Mensaje de prueba"); // 
-
             return Result.Succeeded;
         }
     }
